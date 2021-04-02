@@ -52,8 +52,8 @@ Jas, M., Engemann, D. A., Bekhti, Y., **Raimondo, F.**, Gramfort, A. (2016). Aut
 Naccache, L., Sitt, J., King, J.-R., Rohaut, B., Faugeras, F., Chennu, S., Strauss, M., Valente, M., Engemann, D., **Raimondo, F.**, Demertzi, A., Bekinschtein, T., Dehaene, S. (2016). Reply: Replicability and impact of statistics in the detection of neural responses of consciousness. *Brain*. <http://doi.org/10.1093/brain/aww060>
 
 
-#### Pre-prints
----------------
+#### Preprints
+--------------
 
 Hermann, B., Stender, J., Habert, M.O., Kas, A., Denis-Valente, M.,**Raimondo, F.**, Pérez, P., Rohaut, B., Sitt, J., Naccache, L. (2020) Multimodal FDG-PET and EEG assessment improves diagnosis and prognostication of disorders of consciousness. *medRxiv*. <https://doi.org/10.1101/2020.06.16.20132514>
 	
