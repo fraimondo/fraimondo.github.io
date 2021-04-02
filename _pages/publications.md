@@ -8,8 +8,8 @@ banner_image: /images/fraimondo/rio2.jpg
 
 
 
-## First author
----------------
+#### First author
+-----------------
 
 Gaubert,* S., **Raimondo,* F.**, Houot, M., Corsi, M.C., Naccache, L., Sitt, J., Hermann, B., Odiette., D., Gagliardi, G., Habert, M.O., Dubois, B., De Vico Fallani, F., Bakardjian, H., Epelbaum, S. (2019) EEG evidence of compensatory mechanisms in preclinical Alzheimer’s disease. *Brain*. <https://doi.org/10.1093/brain/awz150>
 
@@ -19,8 +19,8 @@ Engemann,* D., **Raimondo,* F.**, King, J.R., Rohaut, B., Louppe, G., Faugeras, 
 
 **Raimondo, F.**, Kamienkowski, J. E., Sigman, M., Fernandez Slezak, D. (2012). CUDAICA: GPU optimization of infomax-ICA EEG analysis. *Computational Intelligence and Neuroscience*. <http://doi.org/10.1155/2012/206972>
 
-## Co-author
-------------
+#### Co-author
+--------------
 Hermann, B., Stender, J., Habert, M.O., Kas, A., Denis-Valente, M., **Raimondo, F.**, Pérez, P., Rohaut, B., Sitt, J., Naccache, L. (2021) Multimodal FDG-PET and EEG assessment improves diagnosis and prognostication of disorders of consciousness. *NeuroImage: Clinical*. <https://doi.org/10.1016/j.nicl.2021.102601>
 
 Ihalainen, R., Gosseries, O., Van de Steen, F., **Raimondo, F.**, Panda, R., Bonhomme, V., Marinazzo, D., Bowman, H., Laureys, S., Chennu, S. (2021) How hot is the hot zone? Computational modelling clarifies the role of parietal and frontoparietal connectivity during anaesthetic-induced loss of consciousness. *NeuroImage*. <https://doi.org/10.1016/j.neuroimage.2021.117841>
@@ -52,8 +52,8 @@ Jas, M., Engemann, D. A., Bekhti, Y., **Raimondo, F.**, Gramfort, A. (2016). Aut
 Naccache, L., Sitt, J., King, J.-R., Rohaut, B., Faugeras, F., Chennu, S., Strauss, M., Valente, M., Engemann, D., **Raimondo, F.**, Demertzi, A., Bekinschtein, T., Dehaene, S. (2016). Reply: Replicability and impact of statistics in the detection of neural responses of consciousness. *Brain*. <http://doi.org/10.1093/brain/aww060>
 
 
-## Pre-prints
-------------
+#### Pre-prints
+---------------
 
 Hermann, B., Stender, J., Habert, M.O., Kas, A., Denis-Valente, M.,**Raimondo, F.**, Pérez, P., Rohaut, B., Sitt, J., Naccache, L. (2020) Multimodal FDG-PET and EEG assessment improves diagnosis and prognostication of disorders of consciousness. *medRxiv*. <https://doi.org/10.1101/2020.06.16.20132514>
 	
