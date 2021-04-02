@@ -1,0 +1,61 @@
+---
+layout: default
+title: Projects
+subtitle: What I've been working on lately.
+description: Journal is a stunning personal blog Jekyll theme with an image-focused design.
+featured_image: /images/fraimondo/rio_v.jpeg
+banner_image: /images/fraimondo/barda.jpg
+---
+{% if page.banner_image %}
+<section class="banner">
+	<div class="banner-image" style="background-image: url({{ page.banner_image | relative_url }});"	>
+	</div>
+</section>
+{% endif %}
+<section class="intro">
+
+	<div class="wrap">
+
+		<h1>{{ page.title }}</h1>
+		<p>{{ page.subtitle }}</p>
+
+	</div>
+
+</section>
+
+<section class="portfolio">
+
+	<div class="wrap">
+
+		{% for project in site.projects reversed %}
+		{% if project.publish %}
+		<div class="portfolio-item">
+
+			<a class="portfolio-item__link" href="{{ project.url | relative_url }}">
+				<div class="portfolio-col">
+					<div class="portfolio-item__image" style="{% if project.image_size %} background-size: {{ project.image_size }}; {% endif %}background-image: url({{ project.project_image | relative_url }});"></div>
+
+					<div class="portfolio-item__content">
+						<div class="portfolio-item__info">
+							<h2 class="portfolio-item__title">{{ project.title }}</h2>
+							<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
+						</div>
+					</div>
+				</div>
+				<div class="portfolio-col">
+					<div class="portfolio-item_right_wrap">
+						<h3>{{ project.title }}</h2>
+						<p class="portfolio-right_subtitle">{{ project.subtitle }}</p>
+						<p class="portfolio-right_excerpt"> {{ project.excerpt }}</p>
+					</div>
+				</div>
+
+			</a>
+
+		</div>
+		{% endif %}
+		{% endfor %}
+
+	</div>
+
+</section>
