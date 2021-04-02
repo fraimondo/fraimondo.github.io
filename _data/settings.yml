@@ -1,7 +1,7 @@
 basic_settings:
   site_title: Fede Raimondo
   site_tagline: Computer Scientist / Neuroscientist
-  favicon_image: /images/favicon.png
+  favicon_image: 
 
 header_settings:
   logo_image:
