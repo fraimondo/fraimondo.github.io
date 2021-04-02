@@ -116,7 +116,7 @@ January - May 2019
 
     *Title: Probing consciousness in heart-brain interactions in severely brain-injured patients (poster)*
 
-September -<br/> October 2016
+September - October 2016
 :   **Introduction to large-scale brain electrophysiology analysis**
 
     *Departament of Computer Sciences, UBA, Argentina*

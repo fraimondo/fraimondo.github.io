@@ -44,6 +44,7 @@ Education
 
 Research Positions
 ------------------
+
 2020-present
 :   **Post-Doctoral Researcher**
 
@@ -53,6 +54,7 @@ Research Positions
     Institution:
     :   *Institute of Neuroscience and Medicine - Brain and Behaviour (INM-7), Forschungszentrum Jülich (FZJ) and Institute of Systems Neuroscience, Heinrich Heine University Düsseldorf (HHU), Germany*
 
+
 2018-2020
 :   **Post-Doctoral Fellow**
 
@@ -61,6 +63,7 @@ Research Positions
     
     Institution:
     :   *GIGA Institute, Université de Liège (ULiège), Belgium*
+
 
 2012-2013
 :   **Research and Teaching Assistant**
@@ -76,6 +79,7 @@ Research Positions
 
     Career:
     :   *Licenciatura en Ciencias de la Computación (Master’s degree)* 
+
 
 2009-2012
 :   **Research and Teaching Assistant**
@@ -107,6 +111,7 @@ Teaching Positions
     Institution:
     :   *Departament of Computer Sciences, Faculty of Exact and Natural Sciences, University of Buenos Aires (UBA), Argentina*
 
+
 2012-2014
 :   **Chief of Practical Works**
     
@@ -118,6 +123,7 @@ Teaching Positions
 
     Institution:
     :   *Departament of Computer Sciences, Faculty of Exact and Natural Sciences, University of Buenos Aires (UBA), Argentina*
+
 
 2009-2011
 :   **Teaching Assistant**
@@ -131,6 +137,7 @@ Teaching Positions
     Institution:
     :   *Departament of Computer Sciences, Faculty of Exact and Natural Sciences, University of Buenos Aires (UBA), Argentina*
 
+
 Other Teaching Activities
 -------------------------
 2019
@@ -138,11 +145,13 @@ Other Teaching Activities
 
     *GIGA Doctoral School, GIGA Institute, Belgium.*
 
+
 2019
 :   **Introduction to Scientiﬁc Programming** *(single lecture)*
 
     *GIGA Doctoral School, GIGA Institute, Belgium.*
-    
+
+
 2016
 :   **Introduction to large-scale brain electrophysiology analysis** *(multiple lectures)*
 
@@ -163,6 +172,7 @@ Awards and Scholarships
     Duration:
     :   *1+1 years*
 
+
 2019
 :   **Seal of Excellence (award)**
     
@@ -175,6 +185,7 @@ Awards and Scholarships
     Title:
     :   *Separating the conscious from unconscious counterpart during cognitive processing of multiple sensorial input.*
 
+
 2013
 :   **PhD Scolarship**
 
@@ -183,6 +194,7 @@ Awards and Scholarships
     
     Duration:
     :   *5 years*
+
 
 2011
 :   **Research Internship**
