@@ -21,12 +21,11 @@ Engemann,* D., **Raimondo,* F.**, King, J.R., Rohaut, B., Louppe, G., Faugeras, 
 
 ## Co-author
 ------------
-Hermann, B., Stender, J., Habert, M.O., Kas, A., Denis-Valente, M., **Raimondo, F.**, Pérez, P., Rohaut, B., Sitt, J., Naccache, L. (2021) Multimodal FDG-PET and EEG assessment improves diagnosis and prognostication of disorders of consciousness. *NeuroImage: Clinical*.<https://doi.org/10.1016/j.nicl.2021.102601>
+Hermann, B., Stender, J., Habert, M.O., Kas, A., Denis-Valente, M., **Raimondo, F.**, Pérez, P., Rohaut, B., Sitt, J., Naccache, L. (2021) Multimodal FDG-PET and EEG assessment improves diagnosis and prognostication of disorders of consciousness. *NeuroImage: Clinical*. <https://doi.org/10.1016/j.nicl.2021.102601>
 
 Ihalainen, R., Gosseries, O., Van de Steen, F., **Raimondo, F.**, Panda, R., Bonhomme, V., Marinazzo, D., Bowman, H., Laureys, S., Chennu, S. (2021) How hot is the hot zone? Computational modelling clarifies the role of parietal and frontoparietal connectivity during anaesthetic-induced loss of consciousness. *NeuroImage*. <https://doi.org/10.1016/j.neuroimage.2021.117841>
 
-
-Hermann, B., Ben Salah, A., Perlbarg, V., Valente, M., Pyatigorskaya, N., Habert, M.O., **Raimondo, F.**, Stender, J., Galanaud, D., Kas, A., Puybasset, L., Pérez, P.,  Sitt, J., Rohaut, B., Naccache, L. (2020) Habituation of auditory startle reflex is a new sign of minimally conscious state. *Brain}. <https://doi.org/10.1093/brain/awaa159>
+Hermann, B., Ben Salah, A., Perlbarg, V., Valente, M., Pyatigorskaya, N., Habert, M.O., **Raimondo, F.**, Stender, J., Galanaud, D., Kas, A., Puybasset, L., Pérez, P.,  Sitt, J., Rohaut, B., Naccache, L. (2020) Habituation of auditory startle reflex is a new sign of minimally conscious state. *Brain*. <https://doi.org/10.1093/brain/awaa159>
 
 Hermann, B., **Raimondo, F.**, Hirsch, L., Huang, Y.,  Denis-Valente, M., Pérez, P., Engemann, D., Faugeras, F., Weiss, N., Demeret, S., Rohaut, B., Parra, L.C., Sitt, J., Naccache, L. (2020)  Combined behavioral and electrophysiological evidence for a direct cortical effect of prefrontal tDCS on disorders of consciousness. *Scientific Reports*. <https://doi.org/10.1038/s41598-020-61180-2>
 
