@@ -60,7 +60,10 @@
 	<!-- Extra Header JS Code -->
 	{{ site.data.settings.advanced_settings.header_js }}
 	{% endif %}
-	
+
+	{% if page.extra_css %}
+	<link rel="stylesheet" href="{{ page.extra_css | relative_url }}">
+	{% endif %}
 </head>
 
 
