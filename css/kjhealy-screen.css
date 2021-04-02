@@ -187,7 +187,7 @@ div.cv a:hover {
 } */
 
 div.cv  em {
-	font-weight: bold;
+	/* font-weight: bold; */
 	font-style: italic;
 }
 
