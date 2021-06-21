@@ -1,6 +1,6 @@
 ---
 title: Events / Conferences / Talks
-subtitle: Updated on 02/04/2021
+subtitle: Updated on 21/06/2021
 description: 
 featured_image: /images/fraimondo/rio_v.jpeg
 banner_image: /images/fraimondo/rio.jpg
@@ -10,15 +10,18 @@ layout: events
 Upcoming
 --------
 
-April - May 2021
-:   **Course: A Computer Scientist’s guide to survive programming** *(24 hours, 6 lectures)*
-
-    *Institute of Neuroscience and Medicine - Brain and Behaviour (INM-7), Forschungszentrum Jülich (FZJ), Germamy*
-
-    *Course duration: 24 hours, 6 lectures*
+Nothing yet, stay tuned!
 
 Past
 ----
+
+April - June 2021
+:   **Course: A Computer Scientist’s guide to survive programming** *(32 hours, 8 lectures)*
+
+    *Institute of Neuroscience and Medicine - Brain and Behaviour (INM-7), Forschungszentrum Jülich (FZJ), Germamy*
+
+    *Course duration: 32 hours, 8 lectures*
+
 
 28-29 March 2020
 : **Measuring and Modelling Brain States**
