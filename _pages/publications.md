@@ -1,6 +1,6 @@
 ---
 title: Publications
-subtitle: Updated on 02/04/2021
+subtitle: Updated on 12/11/2021
 description: 
 featured_image: /images/fraimondo/rio_v.jpeg
 banner_image: /images/fraimondo/rio2.jpg
@@ -21,6 +21,8 @@ Engemann,* D., **Raimondo,* F.**, King, J.R., Rohaut, B., Louppe, G., Faugeras, 
 
 #### Co-author
 --------------
+Pérez, P., Madsen, J, Banellis, L, Türker, B., **Raimondo, F.**, Perlbarg, V., Denis-Valente, M., Niérat, M.C., Puybasset, L., Naccache, L., Similowski, T., Cruse, D., Parra, L.C., Sitt, J.D. (2021) Conscious processing of narrative stimuli synchronizes heart rate between individuals. *Cell Report*. <https://doi.org/10.1016/j.celrep.2021.109692>
+
 Hermann, B., Stender, J., Habert, M.O., Kas, A., Denis-Valente, M., **Raimondo, F.**, Pérez, P., Rohaut, B., Sitt, J., Naccache, L. (2021) Multimodal FDG-PET and EEG assessment improves diagnosis and prognostication of disorders of consciousness. *NeuroImage: Clinical*. <https://doi.org/10.1016/j.nicl.2021.102601>
 
 Ihalainen, R., Gosseries, O., Van de Steen, F., **Raimondo, F.**, Panda, R., Bonhomme, V., Marinazzo, D., Bowman, H., Laureys, S., Chennu, S. (2021) How hot is the hot zone? Computational modelling clarifies the role of parietal and frontoparietal connectivity during anaesthetic-induced loss of consciousness. *NeuroImage*. <https://doi.org/10.1016/j.neuroimage.2021.117841>
@@ -54,6 +56,8 @@ Naccache, L., Sitt, J., King, J.-R., Rohaut, B., Faugeras, F., Chennu, S., Strau
 
 #### Preprints
 --------------
+
+Candia-Rivera, D., **Raimondo, F.**, Pérez, P., Naccache, L., Thallon-Baudry, C., Sitt, J.D. (2021) Processing of slow-global auditory regularities causes larger neural responses to heartbeats in patients under minimal consciousness state, compared to unresponsive wakefulness syndrome. *medRxiv*. <https://doi.org/10.1101/2021.10.27.21265539>
 
 Hermann, B., Stender, J., Habert, M.O., Kas, A., Denis-Valente, M.,**Raimondo, F.**, Pérez, P., Rohaut, B., Sitt, J., Naccache, L. (2020) Multimodal FDG-PET and EEG assessment improves diagnosis and prognostication of disorders of consciousness. *medRxiv*. <https://doi.org/10.1101/2020.06.16.20132514>
 	

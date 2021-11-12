@@ -1,6 +1,6 @@
 ---
 title: Curriculum Vitae
-subtitle: Updated on 02/04/2021
+subtitle: Updated on 12/11/2021
 description: 
 featured_image: /images/fraimondo/rio_v.jpeg
 banner_image: /images/fraimondo/luna.jpg
@@ -141,6 +141,12 @@ Teaching Positions
 Other Teaching Activities
 -------------------------
 2019
+:   **A Computer Scientist's guide to programming** *(multiple lectures)*
+
+    *Institute of Neuroscience and Medicine - Brain and Behaviour (INM-7), Forschungszentrum Jülich (FZJ), Germany*
+
+
+2019
 :   **Data Science for Neuroimaging** *(multiple lectures)*
 
     *GIGA Doctoral School, GIGA Institute, Belgium.*
@@ -160,6 +166,13 @@ Other Teaching Activities
 
 Awards and Scholarships
 -----------------------
+2021
+:   **8th Heidelberg Laurate Forum (participation award)**
+    
+    Institution:
+    :   *Heidelberg Laurate Forum Foundation, Germany*
+
+
 2019
 :   **IN WBI Excellence Grant**
     

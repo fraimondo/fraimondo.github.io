@@ -1,6 +1,6 @@
 ---
 title: Events / Conferences / Talks
-subtitle: Updated on 21/06/2021
+subtitle: Updated on 12/11/2021
 description: 
 featured_image: /images/fraimondo/rio_v.jpeg
 banner_image: /images/fraimondo/rio.jpg
@@ -14,11 +14,17 @@ Nothing yet, stay tuned!
 
 Past
 ----
+20-23 September 2021
+: **8th Heidelberg Laurate Forum**
+
+    *Virtual Meeting*
+
+
 
 April - June 2021
 :   **Course: A Computer Scientist’s guide to survive programming** *(32 hours, 8 lectures)*
 
-    *Institute of Neuroscience and Medicine - Brain and Behaviour (INM-7), Forschungszentrum Jülich (FZJ), Germamy*
+    *Institute of Neuroscience and Medicine - Brain and Behaviour (INM-7), Forschungszentrum Jülich (FZJ), Germany*
 
     *Course duration: 32 hours, 8 lectures*
 
