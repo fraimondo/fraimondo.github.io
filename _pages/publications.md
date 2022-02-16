@@ -28,7 +28,7 @@ Strauss, M., Sitt, J., Naccache, L., **Raimondo, F.** (2022). Predicting the los
 --------------
 Pérez, P., Madsen, J, Banellis, L, Türker, B., **Raimondo, F.**, Perlbarg, V., Denis-Valente, M., Niérat, M.C., Puybasset, L., Naccache, L., Similowski, T., Cruse, D., Parra, L.C., Sitt, J.D. (2021) Conscious processing of narrative stimuli synchronizes heart rate between individuals. *Cell Report*. <https://doi.org/10.1016/j.celrep.2021.109692>
 
-Gaubert,* S., Houot, M., **Raimondo, F.**, Ansart. M., Corsi, M.C., Naccache, L., Sitt, J., Habert, M.O., Dubois, B., De Vico Fallani, F., Durrleman, S., Epelbaum, S. for the INSIGHT-preAD study group (2021) A machine learning approach to screen for preclinical Alzheimer's disease. *Neurobiology of Aging*. <https://doi.org/10.1016/j.neurobiolaging.2021.04.024>
+Gaubert, S., Houot, M., **Raimondo, F.**, Ansart. M., Corsi, M.C., Naccache, L., Sitt, J., Habert, M.O., Dubois, B., De Vico Fallani, F., Durrleman, S., Epelbaum, S. for the INSIGHT-preAD study group (2021) A machine learning approach to screen for preclinical Alzheimer's disease. *Neurobiology of Aging*. <https://doi.org/10.1016/j.neurobiolaging.2021.04.024>
 
 Hermann, B., Stender, J., Habert, M.O., Kas, A., Denis-Valente, M., **Raimondo, F.**, Pérez, P., Rohaut, B., Sitt, J., Naccache, L. (2021) Multimodal FDG-PET and EEG assessment improves diagnosis and prognostication of disorders of consciousness. *NeuroImage: Clinical*. <https://doi.org/10.1016/j.nicl.2021.102601>
 
@@ -44,7 +44,7 @@ Carrière, M., Mortaheb, S., **Raimondo, F.**, Annen, J., Barra, A., Binda Fossa
 
 Bonhomme, V., Staquet, C., Montupil, J., Defresne, A., Kirsch, M., Martial, C., Vanhaudenhuyse, A., Chatelle,C., Larroque, S. K., **Raimondo, F.**, Demertzi, A., Bodart, O., Laureys, S., Gosseries, O. (2019) General Anesthesia: A Probe to Explore Consciousness. *Frontiers in Systems Neuroscience*. <https://doi.org/10.3389/fnsys.2019.00036>
 
-Demertzi, * A., Tagliazucchi,* E., Dehaene, S., Deco, G.,  Barttfeld, P.,  **Raimondo, F.**, Martial, C., Fernández-Espejo, D.,  Rohaut, B., Voss, H.U.,  Schiff, N.D., Owen, A.M.,  Laureys, S., Naccache, L., Sitt, J.D. (2019) Human consciousness is supported by dynamic complex patterns of brain signal coordination. *Science Advances*. <http://doi.org/10.1126/sciadv.aat7603>. 
+Demertzi*, A., Tagliazucchi*, E., Dehaene, S., Deco, G.,  Barttfeld, P.,  **Raimondo, F.**, Martial, C., Fernández-Espejo, D.,  Rohaut, B., Voss, H.U.,  Schiff, N.D., Owen, A.M.,  Laureys, S., Naccache, L., Sitt, J.D. (2019) Human consciousness is supported by dynamic complex patterns of brain signal coordination. *Science Advances*. <http://doi.org/10.1126/sciadv.aat7603>. 
 
 Hesse, E., Mikulan, E., Sitt, J.D., Garcia, M.C., Silva, S., Ciraolo, C., Vaucheret, E., **Raimondo, F.**, Baglivo, F., Adolfi, F., Herrera, E., Bekinschtein, T.A., Petroni, A., Lew, S., Sedeño, L., García, A.M., Ibáñez, (2019) Consistent gradient of performance and decoding of stimulus type and valence from local and network activity. *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. <https://doi.org/10.1109/TNSRE.2019.2903921>
 
