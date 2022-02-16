@@ -20,7 +20,6 @@ Past
     *Virtual Meeting*
 
 
-
 April - June 2021
 :   **Course: A Computer Scientist’s guide to survive programming** *(32 hours, 8 lectures)*
 
