@@ -27,7 +27,7 @@ Education
 
 
 2003-2011
-:   **Licenciado en Ciencias de La Computacoin**. University of Buenos Aires, Argentina.<br/>Equivalent to **Bachelor and Masters in Computer Sciences**.
+:   **Licenciado en Ciencias de La Computación**. University of Buenos Aires, Argentina.<br/>Equivalent to **Bachelor and Masters in Computer Sciences**.
 
     Thesis title:
     :   *Fast EEG processing using GPU*
