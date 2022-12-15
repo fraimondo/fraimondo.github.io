@@ -1,6 +1,6 @@
 ---
 title: Publications
-subtitle: Updated on 16/02/2022
+subtitle: Updated on 15/12/2022
 description: 
 featured_image: /images/fraimondo/rio_v.jpeg
 banner_image: /images/fraimondo/rio2.jpg
@@ -10,6 +10,9 @@ banner_image: /images/fraimondo/rio2.jpg
 
 #### First author
 -----------------
+Niedernhuber*, M., **Raimondo*, F.**, Sitt*\*, J, Bekinschtein*\*, T. (2022) Sensory target detection at local and global timescales reveals a hierarchy of supramodal dynamics in the human cortex. *Journal of Neuroscience*. <https://doi.org/10.1523/JNEUROSCI.0658-22.2022>
+
+Amiri,* M., Fisher, P. M., **Raimondo\*, F.**, Sidaros, A., Cacic Hribljan, M., Othman, M., Zibrandtsen, I,. Albrechtsen, S., Bergdal, O., Hansen, A., Hassager, C., Højgaard, J., Waldemar Jakobsen, E., Ravnholt Jensen, H., Møller, J., Nersesjan, V., Nikolic, M., Harboe Olsen, M., Thor Sigurdsson, S., Sitt, J. D., Sølling, C., Welling, K. L., Willumsen, L., Hauerberg, J., Larsen, V. A., Fabricius, M., Knudsen, G. M., Kjærgaard, J., Møller, K., Kondziella, D. (2022) Multimodal prediction of residual consciousness in the intensive care unit: the CONNECT-ME study. *Brain*. <https://doi.org/10.1093/brain/awac335>
 
 Gaubert,* S., **Raimondo\*, F.**, Houot, M., Corsi, M.C., Naccache, L., Sitt, J., Hermann, B., Odiette., D., Gagliardi, G., Habert, M.O., Dubois, B., De Vico Fallani, F., Bakardjian, H., Epelbaum, S. (2019) EEG evidence of compensatory mechanisms in preclinical Alzheimer’s disease. *Brain*. <https://doi.org/10.1093/brain/awz150>
 
@@ -26,6 +29,8 @@ Strauss, M., Sitt, J., Naccache, L., **Raimondo, F.** (2022). Predicting the los
 
 #### Co-author
 --------------
+Mortaheb, S, Van Calster, L., **Raimondo, F.**, Klados, M., Boulakis, P., Georgoula, K., Majerus,  S., Van De Ville, D., Demertzi, A. (2022) Mind blanking is a distinct mental state linked to a recurrent brain profile of globally positive connectivity during ongoing mentation. *Proceedings of the National Academy of Sciences*, <https://doi.org/10.1073/pnas.2200511119>
+
 Pérez, P., Madsen, J, Banellis, L, Türker, B., **Raimondo, F.**, Perlbarg, V., Denis-Valente, M., Niérat, M.C., Puybasset, L., Naccache, L., Similowski, T., Cruse, D., Parra, L.C., Sitt, J.D. (2021) Conscious processing of narrative stimuli synchronizes heart rate between individuals. *Cell Report*. <https://doi.org/10.1016/j.celrep.2021.109692>
 
 Gaubert, S., Houot, M., **Raimondo, F.**, Ansart. M., Corsi, M.C., Naccache, L., Sitt, J., Habert, M.O., Dubois, B., De Vico Fallani, F., Durrleman, S., Epelbaum, S. for the INSIGHT-preAD study group (2021) A machine learning approach to screen for preclinical Alzheimer's disease. *Neurobiology of Aging*. <https://doi.org/10.1016/j.neurobiolaging.2021.04.024>
