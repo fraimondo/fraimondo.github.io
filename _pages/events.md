@@ -1,6 +1,6 @@
 ---
 title: Events / Conferences / Talks
-subtitle: Updated on 12/11/2021
+subtitle: Updated on 24/04/2023
 description: 
 featured_image: /images/fraimondo/rio_v.jpeg
 banner_image: /images/fraimondo/rio.jpg
@@ -10,10 +10,26 @@ layout: events
 Upcoming
 --------
 
-Nothing yet, stay tuned!
+<!-- Nothing yet, stay tuned! -->
+
+8-9 June 2023
+: **[Interpretable Brain Data Workshop](https://ibd2023.carrd.co)**
+
+    *KTH Royal Institute of Technology, Stockholm, Sweden*
+
+    *Title: Building machine learning models from Neuroimaging and Electrophysiology: caveats and insights from large-scale datasets (oral presentation)*
 
 Past
 ----
+
+4-5 April 2023
+: **SMHB General Assembly**
+
+    *Forschungszentrum Jülich, Germany*
+
+    *Title: Predicting behaviour from Neuroimaging: caveats and insights from large-scale datasets (oral presentation)*
+
+
 20-23 September 2021
 : **8th Heidelberg Laurate Forum**
 
