@@ -23,12 +23,12 @@
 		top: 0;
 		left: 0;
 		bottom: 0;
-		width: 30%;
+		width: $sidebar-width;
 		padding: 0;
 	}
 
 	@include mq(desktop) {
-		width: 25%;
+		width: $sidebar-width-wide;
 	}
 }
 
@@ -47,11 +47,11 @@
 	@include mq(tabletl) {
 		position: fixed;
 		right: auto;
-		width: 30%;
+		width: $sidebar-width;
 	}
 
 	@include mq(desktop) {
-		width: 25%;
+		width: $sidebar-width-wide;
 	}
 }
 
@@ -80,11 +80,11 @@
 	@include mq(tabletl) {
 		position: absolute;
 		bottom: 0;
-		padding: 40px 40px 34px;
+		padding: 40px 30px 34px;
 	}
 
 	@include mq(laptop) {
-		padding: 60px 60px 52px;
+		padding: 50px 40px 44px;
 	}
 }
 

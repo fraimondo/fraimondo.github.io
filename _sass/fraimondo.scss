@@ -8,3 +8,16 @@ div .banner-image {
     background-position: center;
     margin-top: 0;
 }
+// Publications: smaller text so long author lists are easier to scan.
+.publications p {
+	font-size: 13px;
+	line-height: 1.5;
+
+	@include mq(tabletp) {
+		font-size: 14px;
+	}
+
+	@include mq(laptop) {
+		font-size: 15px;
+	}
+}

@@ -14,6 +14,11 @@ $break-tabletl: 1024px;
 $break-laptop: 1220px;
 $break-desktop: 1600px;
 
+// Width of the fixed sidebar on large screens.
+// max() keeps it wide enough for the site title on smaller laptops.
+$sidebar-width: max(24%, 280px);
+$sidebar-width-wide: 20%;
+
 @mixin mq($media) {
 	@if $media == phonel {
 		@media only screen and (min-width: $break-phonel) { @content; }

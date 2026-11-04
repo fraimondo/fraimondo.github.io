@@ -4,6 +4,7 @@ subtitle: Updated on 04/11/2026
 description: Publications and preprints by Fede Raimondo.
 featured_image: /images/fraimondo/rio_v.jpeg
 banner_image: /images/fraimondo/rio2.jpg
+content_class: publications
 ---
 
 \* and \*\* denote equal contribution. For the full list of works, see [ORCID](https://orcid.org/0000-0003-4087-8259) or [Google Scholar](https://scholar.google.be/citations?user=B-dZVCIAAAAJ&hl=en).
