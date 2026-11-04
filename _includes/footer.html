@@ -2,6 +2,10 @@
 
 	<div class="footer__copyright">
 		<span>© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_title }}</span>
+		{% if site.data.settings.advanced_settings.analytics_id %}
+		<span class="footer__separator">·</span>
+		<button type="button" class="footer__link js-consent-settings">Cookie settings</button>
+		{% endif %}
 	</div>
 
 </footer>

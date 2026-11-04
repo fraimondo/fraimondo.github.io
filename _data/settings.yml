@@ -1,7 +1,7 @@
 basic_settings:
   site_title: Fede Raimondo
   site_tagline: Computer Scientist / Neuroscientist
-  favicon_image: 
+  favicon_image: /images/favicon.png
 
 header_settings:
   logo_image:
@@ -14,24 +14,13 @@ menu_settings:
       url: '/about'
     - title: 'Publications'
       url: '/publications'
-    - title: 'Events'
-      url: '/events'
     - title: 'CV'
       url: '/cv'
     - title: 'Projects'
       url: '/projects/'
 
-    # - title: 'Contact'
-    #   url: '/contact'
-
 grid_settings:
   grid_spacing: 10
-
-contact_settings:
-  form_action: ''
-  confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
-  send_button_text: 'Send Message'
 
 social_settings:
   facebook_url: ''
@@ -162,14 +151,7 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  analytics_code: >-
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2HGLD3HC90"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-2HGLD3HC90');
-    </script>
+  analytics_id: 'G-2HGLD3HC90'
   custom_styles: 
   header_js: 
   footer_js: 
