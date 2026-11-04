@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <rect width="800" height="450" fill="#ffffff"/>
+  <g font-family="Menlo, Consolas, 'DejaVu Sans Mono', monospace" text-anchor="middle">
+    <text x="400" y="190" font-size="76" font-weight="700" fill="#1b4f7e">&gt;_ vscode</text>
+    <text x="400" y="262" font-size="48" fill="#f04468">remote</text>
+    <text x="400" y="340" font-size="64" fill="#1b4f7e">htcondor</text>
+  </g>
+</svg>

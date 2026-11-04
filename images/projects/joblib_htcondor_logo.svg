@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <rect width="800" height="450" fill="#ffffff"/>
+  <g font-family="Menlo, Consolas, 'DejaVu Sans Mono', monospace" text-anchor="middle">
+    <text x="400" y="200" font-size="84" font-weight="700" fill="#1b4f7e">joblib</text>
+    <rect x="250" y="232" width="300" height="6" rx="3" fill="#f04468"/>
+    <text x="400" y="320" font-size="64" fill="#1b4f7e">htcondor</text>
+  </g>
+</svg>
