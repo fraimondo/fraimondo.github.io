@@ -1,7 +1,7 @@
 basic_settings:
   site_title: Fede Raimondo
   site_tagline: Computer Scientist / Neuroscientist
-  favicon_image: 
+  favicon_image: /images/favicon.png
 
 header_settings:
   logo_image:
@@ -151,14 +151,7 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  analytics_code: >-
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2HGLD3HC90"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-2HGLD3HC90');
-    </script>
+  analytics_id: 'G-2HGLD3HC90'
   custom_styles: 
   header_js: 
   footer_js: 

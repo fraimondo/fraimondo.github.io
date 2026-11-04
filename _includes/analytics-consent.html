@@ -1,0 +1,79 @@
+{% assign ga_id = site.data.settings.advanced_settings.analytics_id %}
+{% if ga_id and ga_id != '' %}
+<!-- Analytics: Google Analytics is loaded only after the visitor accepts. -->
+<div class="consent" id="consent-banner" role="dialog" aria-label="Analytics cookies" hidden>
+	<p class="consent__text">This site uses Google Analytics cookies to count visits. They are only set if you accept.</p>
+	<div class="consent__actions">
+		<button type="button" class="consent__button consent__button--accept" data-consent="granted">Accept</button>
+		<button type="button" class="consent__button" data-consent="denied">Decline</button>
+	</div>
+</div>
+<script>
+(function () {
+	var KEY = 'analytics-consent';
+	var GA_ID = '{{ ga_id }}';
+	var banner = document.getElementById('consent-banner');
+	var loaded = false;
+
+	function read() { try { return localStorage.getItem(KEY); } catch (e) { return null; } }
+	function write(value) { try { localStorage.setItem(KEY, value); } catch (e) {} }
+
+	function load() {
+		if (loaded) return;
+		loaded = true;
+		window.dataLayer = window.dataLayer || [];
+		window.gtag = function () { window.dataLayer.push(arguments); };
+		window.gtag('js', new Date());
+		window.gtag('config', GA_ID);
+		var script = document.createElement('script');
+		script.async = true;
+		script.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+		document.head.appendChild(script);
+		// The theme swaps pages without a full reload, so report those page views too.
+		if (window.jQuery) {
+			window.jQuery(window).on('statechange', function () {
+				setTimeout(function () {
+					window.gtag('event', 'page_view', { page_location: location.href, page_title: document.title });
+				}, 600);
+			});
+		}
+	}
+
+	function clearCookies() {
+		var host = location.hostname;
+		document.cookie.split(';').forEach(function (c) {
+			var name = c.split('=')[0].trim();
+			if (name.indexOf('_ga') === 0) {
+				['', '; domain=' + host, '; domain=.' + host].forEach(function (domain) {
+					document.cookie = name + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/' + domain;
+				});
+			}
+		});
+	}
+
+	function choose(value) {
+		write(value);
+		banner.hidden = true;
+		if (value === 'granted') {
+			load();
+		} else {
+			clearCookies();
+			if (loaded) location.reload();
+		}
+	}
+
+	banner.addEventListener('click', function (e) {
+		var value = e.target.getAttribute('data-consent');
+		if (value) choose(value);
+	});
+
+	document.addEventListener('click', function (e) {
+		if (e.target.closest && e.target.closest('.js-consent-settings')) banner.hidden = false;
+	});
+
+	var choice = read();
+	if (choice === 'granted') load();
+	else if (choice !== 'denied') banner.hidden = false;
+})();
+</script>
+{% endif %}
