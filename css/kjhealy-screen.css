@@ -131,7 +131,6 @@ div.cv li div.cv ul {
 	width: 65%;
 } */
 
-div.events h1,
 div.cv h1 {
 	text-align: left;
 	font-size: 3em;
@@ -141,7 +140,6 @@ div.cv h1 {
 	max-width: 100%;
 }
 
-div.events h2,
 div.cv h2 {
 	font-size: 1.25em;
 	margin-left: 0px;
@@ -156,7 +154,6 @@ div.cv h2 {
 	/* width: 20%; */
 }
 
-div.events h3,
 div.cv h3 {
 	font-size: 1em;
 	line-height: 2em; 
@@ -244,51 +241,6 @@ div.cv dd p {
 }
 
 
-
-div.events p {
-	margin-top: 0;
-	margin-left: 0;
-	margin-right: 0;
-	max-width: 100%;
-}
-
-
-div.events dl {
-	display: flex;
-	flex-flow: row;
-	flex-wrap: wrap;
-}
-
-div.events dt {
-	flex: 0 0 20%;
-	margin-bottom: 2em;
-}
-
-
-div.events dd {
-	flex:0 0 80%;
-	margin-left: auto;
-	padding-left: 2%;
-	margin-bottom: 1em;
-}
-
-div.events dd dt {
-	flex:0 0 15%;
-	font-size: 0.8rem;
-	text-align: right;
-	margin-bottom: 0;
-}
-
-div.events dd dd {
-	flex:0 0 85%;
-	font-size: 0.8rem;
-	padding-left: 2%;
-	margin-bottom: 0;
-}
-
-div.events dd p {
-	font-size: 0.8rem;
-}
 
 /* #address {
 	display: none;
